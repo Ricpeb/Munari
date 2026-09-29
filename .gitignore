@@ -1,0 +1,13 @@
+# Escludi tutto il progetto Unreal tranne i backup/recupero in Saved/
+# (cache rigenerabili escluse)
+Saved/webcache*/
+Saved/ShaderDebugInfo/
+Saved/Cooked/
+Saved/StagedBuilds/
+
+# Unreal generati/rigenerabili (se mai copiati qui)
+Intermediate/
+DerivedDataCache/
+Binaries/
+Build/
+*.tmp
